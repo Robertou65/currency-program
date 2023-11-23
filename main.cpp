@@ -57,7 +57,7 @@ int main(){
         break;
     }
 
-    std::cin.get();
+    system("pause");
     system("clear");
 
     i++;
